@@ -1,0 +1,11 @@
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+*.h5
+*.h5ad
+*.rds
+*.bam
+*.fastq
+*.fastq.gz
+Pf_persister_guided_results/
